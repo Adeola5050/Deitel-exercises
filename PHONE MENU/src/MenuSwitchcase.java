@@ -97,7 +97,7 @@ public class MenuSwitchcase {
             case 4:
                 System.out.println("1- Missed calls");
                 System.out.println("2- Received calls");
-                System.out.println("3- Diallede calls");
+                System.out.println("3- Dialled calls");
                 System.out.println("4- Erase recent call lists ");
                 System.out.println("5- Show call duration");
                 System.out.println("6- Show call costs");
