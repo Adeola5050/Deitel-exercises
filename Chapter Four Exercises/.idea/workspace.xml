@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="574b2fc7-5f1a-470f-9e43-c2abd26e409a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Chapter six/src/Encryption.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter six/src/classExercise/Kata.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter six/src/classExercise/Kata.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter six/test/AirConditionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter six/test/AirConditionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter six/test/bankApp/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter six/test/bankApp/AccountTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter six/test/bankApp/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter six/test/classExercise/Kata.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter six/test/classExercise/Kata.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter six/test/classExercise/KataTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter six/test/classExercise/KataTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter six/test/classExercise/LgTelevisionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter two/src/ArithmeticSmallestAndLargest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter two/src/chapterTwo/ArithmeticSmallestAndLargest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter two/src/BodyMassIndexCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter two/src/chapterTwo/BodyMassIndexCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter two/src/CarPoolSavingCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter two/src/chapterTwo/CarPoolSavingCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter two/src/CheckerBoardPatternAsteriks.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter two/src/chapterTwo/CheckerBoardPatternAsteriks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter two/src/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter two/src/chapterTwo/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter two/src/ComparingIntegers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter two/src/chapterTwo/ComparingIntegers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter two/src/GetNegativePositiveZeroValues.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter two/src/chapterTwo/GetNegativePositiveZeroValues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter two/src/IntegerSumProductDifferenceAndQuotient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter two/src/chapterTwo/IntegerSumProductDifferenceAndQuotient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter two/src/IntegerValueOfCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter two/src/chapterTwo/IntegerValueOfCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter two/src/LargestAndSmallestIntegers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter two/src/chapterTwo/LargestAndSmallestIntegers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter two/src/Multiples.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter two/src/chapterTwo/Multiples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter two/src/OddOrEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter two/src/chapterTwo/OddOrEven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter two/src/PopulationGrowthCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter two/src/chapterTwo/PopulationGrowthCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter two/src/SeperateDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter two/src/chapterTwo/SeparateDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter two/src/Shapes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter two/src/chapterTwo/Shapes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter two/src/TablesOfSquareAndCubes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter two/src/chapterTwo/TablesOfSquareAndCubes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHONE MENU/PHONE MENU.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../PHONE MENU/PHONE MENU.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHONE MENU/out/production/PHONE MENU/MenuSwitchcase.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PHONE MENU/out/production/PHONE MENU/MenuSwitchcase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHONE MENU/src/MenuSwitchcase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PHONE MENU/src/MenuSwitchcase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myExecises/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myExecises/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myExecises/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myExecises/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myExecises/myExecises.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myExecises/out/production/myExecises/chapterFour/ControlStructure.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myExecises/out/production/myExecises/chapterFour/Loop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myExecises/out/production/myExecises/chapterFour/LoopEvenNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myExecises/out/production/myExecises/chapterFour/LoopOddNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myExecises/out/production/myExecises/chapterFour/MenuSwitchcase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myExecises/out/production/myExecises/chapterFour/Sentinel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myExecises/out/production/myExecises/chapterFour/SwitchCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myExecises/out/production/myExecises/chapterFour/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myExecises/src/chapterFour/ControlStructure.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myExecises/src/chapterFour/Loop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myExecises/src/chapterFour/LoopEvenNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myExecises/src/chapterFour/LoopOddNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myExecises/src/chapterFour/MenuSwitchcase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myExecises/src/chapterFour/Sentinel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myExecises/src/chapterFour/SwitchCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myExecises/src/chapterFour/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/untitled.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="23xE8AYoiy8JHx8whQiM88ZcoOc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ErrorCorrection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ErrorCorrection" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ErrorCorrection" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="574b2fc7-5f1a-470f-9e43-c2abd26e409a" name="Changes" comment="" />
+      <created>1642667176293</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642667176293</updated>
+      <workItem from="1642667177772" duration="1733000" />
+      <workItem from="1642681895643" duration="539000" />
+      <workItem from="1642782905470" duration="20000" />
+      <workItem from="1642783336573" duration="1543000" />
+      <workItem from="1642849284174" duration="1070000" />
+      <workItem from="1642854518699" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../Chapter two/src/chapterFour/ErrorCorrection.java</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

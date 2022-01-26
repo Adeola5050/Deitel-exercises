@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Chapter Four Exercises/Chapter Four Exercises.iml" filepath="$PROJECT_DIR$/Chapter Four Exercises/Chapter Four Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter six/Chapter six.iml" filepath="$PROJECT_DIR$/Chapter six/Chapter six.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter two/Chapter two.iml" filepath="$PROJECT_DIR$/Chapter two/Chapter two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChapterThreeExercises/ChapterThreeExercises.iml" filepath="$PROJECT_DIR$/ChapterThreeExercises/ChapterThreeExercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChapterThreeExercises - Copy/ChapterThreeExercises - Copy.iml" filepath="$PROJECT_DIR$/ChapterThreeExercises - Copy/ChapterThreeExercises - Copy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChapterThreeExercises - Copy (2)/ChapterThreeExercises - Copy (2).iml" filepath="$PROJECT_DIR$/ChapterThreeExercises - Copy (2)/ChapterThreeExercises - Copy (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cohortnine/Cohortnine.iml" filepath="$PROJECT_DIR$/Cohortnine/Cohortnine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyFirstJava/MyFirstJava.iml" filepath="$PROJECT_DIR$/MyFirstJava/MyFirstJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MypersonalExercises/MypersonalExercises.iml" filepath="$PROJECT_DIR$/MypersonalExercises/MypersonalExercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PHONE MENU/PHONE MENU.iml" filepath="$PROJECT_DIR$/PHONE MENU/PHONE MENU.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sololearn/Sololearn.iml" filepath="$PROJECT_DIR$/Sololearn/Sololearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myExecises/myExecises.iml" filepath="$PROJECT_DIR$/myExecises/myExecises.iml" />
+    </modules>
+  </component>
+</project>
