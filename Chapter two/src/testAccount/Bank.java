@@ -20,22 +20,27 @@ public class Bank {
     }
 
     public String getSortCode() {
+
         return sortCode;
     }
 
     public ArrayList<Customer> getCustomers() {
+
         return customers;
     }
 
     public void setBankName(String bankName) {
+
         this.bankName = bankName;
     }
 
     public void setSortCode(String sortCode) {
+
         this.sortCode = sortCode;
     }
 
     public void setCustomers(ArrayList<Customer> customers) {
+
         this.customers = customers;
     }
 }

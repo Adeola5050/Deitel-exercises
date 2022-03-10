@@ -28,11 +28,11 @@ public class AirConditionTest{
     @Test
 
     public void temperatureCanBeDecreased() {
-//        given
-        AirConditioner ac = new AirConditioner();
-//        when
+     given
+        AirConditioner ac = new AirConditioner();    
+       when
         ac.decreaseTemperature();
-//        check
+      check
         assertEquals(16, ac.getTemperature());
 
     }
